@@ -1,4 +1,4 @@
-# Sentinel Swarm: A Bio-Inspired Defense Simulation
+# Sentinel Swarm: A Bio-Inspired Simulation
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Libraries](https://img.shields.io/badge/Libraries-NumPy%20%7C%20Matplotlib-orange)](https://numpy.org/)
